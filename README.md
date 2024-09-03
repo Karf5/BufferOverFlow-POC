@@ -19,5 +19,7 @@ To Fix This Vulnerability You Will Need To Replace The scanf In Line Number 27 I
 fgets(user_name_input, sizeof(user_name_input), stdin);
 ```
 Benefits of using fgets:
+
 Security : fgets Prevents BufferOverflow By Limiting The Size Of The array, Thus Preventing Memory Limits From Being Overwritten.
+
 Ease of use : Provides a Simple Interface For Reading And Storing Text Data Securely.
