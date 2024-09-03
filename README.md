@@ -31,7 +31,7 @@ End-of-line Checking : If There Is An End-Of-Line In The Input, It Is Stored In 
 
 
 
-Benefits of using fgets:
+Benefits of using fgets :
 
 Security : fgets Prevents BufferOverflow By Limiting The Size Of The array, Thus Preventing Memory Limits From Being Overwritten.
 
