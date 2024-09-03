@@ -19,6 +19,7 @@ To Fix This Vulnerability You Will Need To Replace The scanf In Line Number 27 I
 fgets(user_name_input, sizeof(user_name_input), stdin);
 ```
 
+
 How fgets Work :
 
 Reading From Input : fgets Reads Text From stdin (usually user input from the keyboard) And Stores It In The array user_name_input.
