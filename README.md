@@ -30,6 +30,7 @@ End-of-line Entry : If More Than The array Size Is Entered, fgets Truncates The 
 End-of-line Checking : If There Is An End-Of-Line In The Input, It Is Stored In The array, And This Can Require Additional Processing To Remove This End If It Is Not Required In The Program.
 
 
+
 Benefits of using fgets:
 
 Security : fgets Prevents BufferOverflow By Limiting The Size Of The array, Thus Preventing Memory Limits From Being Overwritten.
